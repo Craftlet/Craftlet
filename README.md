@@ -57,7 +57,7 @@ Craftlet is built as a browser-first experience, allowing players to jump into t
 Play Now
 
 https://craftlet.gitlawb.app/
-
+X : https://x.com/CraftletDev
 Roadmap
 
 - Additional biomes
